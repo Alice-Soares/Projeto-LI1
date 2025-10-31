@@ -1,4 +1,5 @@
 # Laboratórios de Informática I
+Nota final do projeto: 19
 
 ## Executável
 
